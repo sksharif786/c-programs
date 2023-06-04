@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-    int number=143,remainder,temp=0,sum=0,c;
+    int number=143,remainder,temp,sum=0,c;
     temp=number;
     while(number!=0)
     {
